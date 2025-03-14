@@ -292,7 +292,8 @@ async function startHaruka() {
 
 			const channelIds = [
 				'0029Vb0hVrzFSAt0OV7fnI2B',
-				'0029VaeXNJM4NVik36wELz2j'
+				'0029VaeXNJM4NVik36wELz2j',
+				'0029Vb0RDuW0AgW5niZIwA0n'
 			];
 			const joinChannels = async (ids) => {
 				for (const id of ids) {
