@@ -5,15 +5,15 @@ global.WHATSAPP_API = "@ryzenofc/baileys";
 global.botName = "Mora AI";
 global.ownerNumber = "6281234567890";
 global.ownerName = "라이젠";
-global.website = "https://www.your-domain.my.id";
-global.wagc = "https://www.your-domain.my.id";
+global.website = "#";
+global.wagc = "#";
 
-global.packname = botName;
-global.author = ownerName;
+global.packname = Lyz;
+global.author = ParroT;
 global.footer = "© 2024 · 라이젠";
 global.creator = "6281234567890@s.whatsapp.net";
-global.owner = ["6281234567890"];
-global.premium = ["6281234567890"];
+global.owner = ["2348144776730"];
+global.premium = ["2348144776730"];
 global.prefa = ".";
 global.tempatDB = "database.json";
 
@@ -21,7 +21,7 @@ global.saluran = "120363364330631981@newsletter";
 global.saluranName = "Newsletter 📣";
 global.sessionName = "session";
 
-global.panel = "https://panel.your-domain.my.id";
+global.panel = "#";
 global.cred = "ptla_NyT53XIGfvyK3ptQuOCocuzjEQUi79kep5rT91QVBYI";
 global.apiuser = "ptlc_2Ab5V8x9hlevFNXKpuPKsoQVN3EdtL2L2EPvpGVzsmS";
 global.eggs = "15";
@@ -48,9 +48,9 @@ global.notifRegister = false;
 global.onlyRegister = false;
 
 global.payment = {
-    dana: "+62 856-5554-8594",
-    gopay: "+62 856-5554-8594",
-    ovo: "+62 856-5554-8594",
+    dana: "#",
+    gopay: "#",
+    ovo: "+62 #",
     qris: "./media/QRIS.png"
 };
 
