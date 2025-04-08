@@ -3,7 +3,7 @@ const chalk = require("chalk");
 global.WHATSAPP_API = "@ryzenofc/baileys";
 
 global.botName = "Mora AI";
-global.ownerNumber = "6281234567890";
+global.ownerNumber = "254791164488";
 global.ownerName = "라이젠";
 global.website = "#";
 global.wagc = "#";
@@ -11,9 +11,9 @@ global.wagc = "#";
 global.packname = Lyz;
 global.author = ParroT;
 global.footer = "© 2024 · 라이젠";
-global.creator = "6281234567890@s.whatsapp.net";
-global.owner = ["2348144776730"];
-global.premium = ["2348144776730"];
+global.creator = "254791164488@s.whatsapp.net";
+global.owner = ["254791164488"];
+global.premium = ["254791164488"];
 global.prefa = ".";
 global.tempatDB = "database.json";
 
